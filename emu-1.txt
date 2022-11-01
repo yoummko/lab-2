@@ -1,0 +1,10 @@
+mov al,val_1
+mov bl,val_2
+mul bl
+
+ret
+
+val_1 db 4h   
+val_2 db 2h 
+
+

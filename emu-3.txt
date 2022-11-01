@@ -1,0 +1,10 @@
+mov ah,array[0]
+mov al,array[1]
+mov bh,array[2]
+mov bl,array[3]           
+           
+
+ret
+
+array db 2h,3h,4h,5h
+
